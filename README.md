@@ -1,5 +1,4 @@
-// README
-// My first repository
+HELLOW!!! 👋
 
 I'm an IT technician that interests in computer science and wants to start his journey with open source
 
